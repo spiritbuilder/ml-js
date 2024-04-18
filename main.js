@@ -1,5 +1,5 @@
 let canvas = document.getElementById("canvas");
-canvas.height = window.innerHeight;
+canvas.height = window.innerHeight * 0.75;
 console.log(window.innerHeight);
 canvas.width = 300;
 console.log("interst", canvas);
